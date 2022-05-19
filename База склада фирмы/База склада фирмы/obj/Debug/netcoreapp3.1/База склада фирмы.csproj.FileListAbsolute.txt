@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База_склада_фирмы.Form1.resources
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.csproj.GenerateResource.cache
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.AssemblyInfo.cs
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\bin\Debug\netcoreapp3.1\База склада фирмы.exe
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\bin\Debug\netcoreapp3.1\База склада фирмы.deps.json
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\bin\Debug\netcoreapp3.1\База склада фирмы.runtimeconfig.json
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\bin\Debug\netcoreapp3.1\База склада фирмы.runtimeconfig.dev.json
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\bin\Debug\netcoreapp3.1\База склада фирмы.dll
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\bin\Debug\netcoreapp3.1\База склада фирмы.pdb
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.dll
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.pdb
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База склада фирмы.genruntimeconfig.cache
+C:\Users\User\source\repos\База склада фирмы\База склада фирмы\obj\Debug\netcoreapp3.1\База_склада_фирмы.Products.resources
